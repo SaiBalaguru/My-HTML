@@ -1,0 +1,39 @@
+Canvas 
+D3 tidy tree
+Local Storage & Session Storage Properties
+Indexed DB properties
+Modernizr - <script src = "modernizr.mix.js" type = "text/javascript"> </script>
+
+Feb 18th 2019
+Bootstrap 4
+
+the three frameworks are
+Bootsrap
+Materialise
+Foundation
+are the frameworks available for web application across all the fromats.
+The 2 kinds of layout in Bootstrap
+1) Fluid
+2) Fixed
+Bootstrap uses Grid system to arrange. It divides into 12 parts. hence 1 part is 8.33 .
+The advantage is it assures uniform layout. 
+It can be installed npm, yarn or Bower.syntax "Space" install Bootstrap
+
+Sizes:
+Extra small - if screen width is less than 576px.
+small       - If the device width is >= 576 && <= 768
+medium	    - If the device width is >= 768 && <= 
+Naming conventions sm, md, lg, xl. 
+The gtratest advantage here is a single div aligns itself to different screen sizes.
+class for buttons
+btn btn-*  
+* - Primary Success danger warning info
+
+Layouts available in Bootstrap
+1) Vertical
+2) Horizontal
+3) Inline
+
+Themes for Bootstrap
+Bootswatch.com
+
