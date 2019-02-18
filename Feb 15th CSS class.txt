@@ -35,5 +35,10 @@ Layouts available in Bootstrap
 3) Inline
 
 Themes for Bootstrap
-Bootswatch.com
+bootswatch.com
+getbootstrap.com
+
+In bootstrap the navigation menu is called Navbar.
+Note: Offset is generally applied within the class
+
 
