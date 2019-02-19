@@ -41,4 +41,15 @@ getbootstrap.com
 In bootstrap the navigation menu is called Navbar.
 Note: Offset is generally applied within the class
 
+February 19th 2019
+using icons
+download the cdn in from fontawesome.com
+-----------------------------------------------------------------------------------
+			JAVASCRIPT
+1) It's a scripting language. It's predecessor is Flash.
+2) It's used in front end. In back end, we will be using is Node JS to make Servers. 
+3) it's a heavily typed language. 
+
+1) Check the sources tab, to find whether which files are loaded into the browser. 
+
 
