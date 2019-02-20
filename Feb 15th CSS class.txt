@@ -50,6 +50,51 @@ download the cdn in from fontawesome.com
 2) It's used in front end. In back end, we will be using is Node JS to make Servers. 
 3) it's a heavily typed language. 
 
-1) Check the sources tab, to find whether which files are loaded into the browser. 
+1) Check the sources tab, to find whether which files are loaded into the browser.
+2) it's always recommended that Javascript file must be end of the body tag.
+
+variable declarations - var 
+arrays, functions,int, string - datatypes in JS.
+1) there is keyword called typeof - to know the type of var.
+2) browser is itself an object named as "window".
+3) Any variable declared inside a function, it's life time is only inside that function paranthesis.
+4) two js file linked to a single html file, is global all over the browser.
+Purpose of JavaScript
+1) Accessing the server and uploading in the server. 
+2) Modifying the user interface.
+3) html = document object
+4) browser = window object
+
+window.document will print the entire html code.
+This is called as document object module.
+1) document.getElementID(); - it gives only one element.
+2) document.getElementsByClassName(); - It gives all elements by class name. 
+3) document.getElementsByTagName(); -   It gives all elements by tag name.
+
+******* Important Note ******
+1) The script must be declared just above </body>
+2) All validations must be written initially and can be called whenever required.
+-----------------------------------------------------------------------------------------
+Adapting the best practices to Write JS:
+1) It is always recommended to start the 1st line of the file with - use "Strict". 
+Without use strict all the variable is considered Global, which will be later to debug; 
+It conveys the developer to declare the variable. 
+Ex:
+'use strict'
+abcd = 10; // An exception will occur that the variable is not defined.
+
+Note: JS is an object based and not object oriented, since there are no classes in JS.
+
+Questions: How javascript is executed?
+mdn.com
+javascript jackal
+javascript sexy
+john papa
+scotch.io
+risingsrack.io
+
+
+2) In the 2nd line declare all the global variables.    
+
 
 
